@@ -19,5 +19,7 @@
 
 ## 統計音檔時間
 ```
-$ find .  -name '*.mp3' -exec bash -c "avconv -i {}  -loglevel panic -f wav - | sox -t wav -  -n stat"  \; 2>&1 | grep Length | sed -n 's#^Length (seconds):[^0-9]*\([0-9.]*\)$#\1#p' | paste -sd+ | bc
+find .  -name '*.mp3' -exec bash -c "avconv -i {} -loglevel panic -f wav - | sox -t wav -  -n stat"  \; 2>&1 | \
+  grep Length | sed -n 's#^Length (seconds):[^0-9]*\([0-9.]*\)$#\1#p' | \
+  paste -sd+ | bc
 ```
