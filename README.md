@@ -4,8 +4,9 @@
 
 ## 資料說明
 文字檔khǹg佇github，音檔用[Dropbox](https://www.dropbox.com/sh/d8im0w9xin3sdmi/AACxK89PXCeXRr3DKeGyJj9Ma?dl=0)
-- 全羅:`bklcl.txt`
-- 漢羅:`bklhl.txt`
+- json:`pkl.json`。整理`pklcl.txt`, `pklhl.txt`佮`低品質一段mp3`
+- 全羅:`pklcl.txt`
+- 漢羅:`pklhl.txt`
 - 低品質一段mp3:
 - 低品質一章mp3:`wget -m ftp://ftp.fhl.net/pub/FHL/audio/Taiwanese64k/`
   - 攏總300575秒
