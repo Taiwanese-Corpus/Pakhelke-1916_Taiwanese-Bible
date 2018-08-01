@@ -3,7 +3,7 @@
 - 信望愛線頂[閱讀經文](http://taigi.fhl.net/list.html)
 
 ## 資料說明
-文字檔khǹg佇github，音檔用[Dropbox]()
+文字檔khǹg佇github，音檔用[Dropbox](https://www.dropbox.com/sh/d8im0w9xin3sdmi/AACxK89PXCeXRr3DKeGyJj9Ma?dl=0)
 - 全羅:`bklcl.txt`
 - 漢羅:`bklhl.txt`
 - 低品質一段mp3:
