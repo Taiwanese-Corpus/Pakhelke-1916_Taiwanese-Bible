@@ -8,11 +8,11 @@
 - 全羅:`pklcl.txt`
 - 漢羅:`pklhl.txt`
 - 低品質一段mp3:
-  - 攏總298458秒
+  - 攏總82.9點鐘、298458秒
 - 低品質一章mp3:`wget -m ftp://ftp.fhl.net/pub/FHL/audio/Taiwanese64k/`
-  - 攏總300575秒
+  - 攏總83.5點鐘、300575秒
 - 高品質一章mp3:`wget -m ftp://ftp.fhl.net/pub/FHL/audio/taisource/`
-  - 攏總300513秒
+  - 攏總83.5點鐘、300513秒
 
 ## 音檔授權
 節錄自[信望愛網頁](http://bible.fhl.net/new/audio.html)
