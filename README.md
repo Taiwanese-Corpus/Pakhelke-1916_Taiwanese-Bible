@@ -3,7 +3,7 @@
 - 信望愛線頂[閱讀經文](http://taigi.fhl.net/list.html)
 
 ## 資料說明
-文字檔khǹg佇github，音檔用[Dropbox](https://www.dropbox.com/sh/d8im0w9xin3sdmi/AACxK89PXCeXRr3DKeGyJj9Ma?dl=0)
+文字檔khǹg佇github，音檔有先[整理起來](https://tongan-puntiunn.ithuan.tw/Pakhelke-1916_Taiwanese-Bible.zip)
 - json:`pkl.json`。整理`pklcl.txt`, `pklhl.txt`佮`低品質一段mp3`
 - 全羅:`pklcl.txt`
 - 漢羅:`pklhl.txt`
